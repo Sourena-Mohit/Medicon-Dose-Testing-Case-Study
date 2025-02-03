@@ -50,7 +50,8 @@ To address the key questions, we will apply **inferential statistics** methods i
 The dataset **'doses.csv'** contains information about the time of effect (in hours) for a sample of 50 vaccine doses.
 
 **Columns:**
-- `time_effect`: The time taken (in hours) for the dose to fully cure COVID-19.
+- `time_of_effect`: The time taken (in hours) for the dose to fully cure COVID-19.
+- `drug_serial_number` - A unique identifier for each drug dose.
 
 ---
 
